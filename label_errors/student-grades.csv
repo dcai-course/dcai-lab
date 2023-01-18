@@ -1,0 +1,942 @@
+stud_ID,exam_1,exam_2,exam_3,notes,letter_grade,noisy_letter_grade
+f48f73,53,77,93,,C,C
+0bd4e7,81,64,80,great participation +10,B,B
+e1795d,74,88,97,,B,B
+cb9d7a,61,94,78,,C,C
+9acca4,48,90,91,,C,C
+745c23,89,95,72,,B,B
+24d6f2,0,83,97,"cheated on exam, gets 0pts",D,D
+e5af86,71,82,97,,B,B
+0aa465,0,56,96,"cheated on exam, gets 0pts",F,F
+cac6eb,75,80,98,missed class frequently -10,C,C
+d52614,81,65,82,,C,C
+5afd5d,95,86,53,missed homework frequently -10,D,B
+952d9a,89,72,98,missed homework frequently -10,C,C
+4629d7,80,59,65,,D,D
+28f8b4,67,82,98,,B,D
+851614,87,78,95,,B,B
+9f6431,89,69,98,great participation +10,A,A
+f288e4,53,72,46,missed class frequently -10,F,F
+5a53c9,46,84,89,missed homework frequently -10,D,B
+edeb53,70,63,95,great participation +10,B,B
+9b7f42,63,93,94,,B,B
+01ed51,90,75,90,missed homework frequently -10,C,C
+10ec62,72,81,95,missed class frequently -10,C,C
+5eef2c,90,83,51,,C,A
+71d7b9,99,53,76,,C,C
+b2ec67,85,49,83,,C,C
+fbffe2,89,71,94,great final presentation +10,A,A
+752905,86,80,89,,B,F
+cfc98d,75,94,79,,B,B
+d7c575,61,95,94,,B,B
+b3112c,74,64,91,,C,A
+13b36e,98,92,96,,A,A
+c1085a,95,83,78,,B,D
+f5427e,92,63,91,missed homework frequently -10,C,C
+e1dffd,69,94,95,great participation +10,A,A
+6699cc,81,90,90,missed homework frequently -10,C,C
+11d11f,98,69,90,,B,D
+5d086b,82,94,99,missed class frequently -10,B,B
+cd1b96,73,57,96,,C,C
+d88e3d,98,73,86,great final presentation +10,A,A
+7630c7,0,81,99,"cheated on exam, gets 0pts",D,B
+6ff175,0,89,100,"cheated on exam, gets 0pts",D,D
+6243e0,62,83,81,,C,C
+02e64e,78,84,92,great final presentation +10,A,A
+1a0785,79,84,92,,B,B
+50c022,65,69,92,missed homework frequently -10,D,A
+bfc71a,98,82,47,great final presentation +10,B,B
+be178f,92,0,89,"cheated on exam, gets 0pts",D,D
+e68fe8,84,46,95,,C,C
+745eca,95,85,98,,A,A
+dea70a,86,88,90,great final presentation +10,A,A
+416a58,65,58,91,,C,C
+aa4eaa,79,83,88,,B,F
+7e74b1,0,95,87,"cheated on exam, gets 0pts",D,D
+cce446,90,57,97,,B,B
+bece9b,72,69,81,missed homework frequently -10,D,D
+eb10df,70,85,96,,B,F
+83818a,89,59,79,missed homework frequently -10,D,B
+16fc65,75,83,69,,C,A
+f12b58,89,70,90,missed homework frequently -10,C,C
+3cbdb0,81,85,95,,B,B
+93af9d,76,70,73,great participation +10,B,B
+fff102,92,62,66,great participation +10,B,B
+61cb66,94,98,99,,A,A
+63c40e,96,99,96,great final presentation +10,A,A
+228dc0,65,85,80,great participation +10,B,B
+32b9ff,90,79,85,great participation +10,A,A
+b82370,0,87,77,"cheated on exam, gets 0pts",F,F
+0500f9,91,75,95,great participation +10,A,A
+3b6d80,88,77,92,,B,F
+24f0df,86,64,96,,B,B
+38a6ec,88,67,74,,C,A
+c29e3c,76,59,65,,D,D
+db7c62,96,68,59,great participation +10,B,B
+30f5ea,84,98,51,,C,C
+4575aa,97,85,75,,B,B
+ba5948,97,98,80,great final presentation +10,A,A
+b6dd2f,89,74,71,,C,C
+d0a4ce,72,90,93,,B,B
+257755,49,0,78,"cheated on exam, gets 0pts",F,F
+11d2df,88,93,78,great participation +10,A,A
+e64047,88,80,82,great participation +10,A,A
+8bfb9a,75,91,68,great final presentation +10,B,B
+267224,68,99,91,,B,D
+a59996,92,87,71,,B,D
+bdcaaf,83,97,75,great final presentation +10,A,A
+98d5be,87,100,94,,A,A
+139084,86,95,77,,B,B
+dbaba1,79,0,76,"cheated on exam, gets 0pts",F,F
+4808b4,99,83,44,great final presentation +10,B,B
+a7e4da,96,77,79,missed class frequently -10,C,C
+974144,78,94,81,,B,D
+91044f,58,76,94,great participation +10,B,B
+7af3fe,70,0,63,"cheated on exam, gets 0pts",F,F
+75490e,77,84,95,,B,B
+826859,81,56,54,,D,D
+c25641,76,96,78,great final presentation +10,A,A
+1c4d0a,99,53,73,missed homework frequently -10,D,D
+ea3967,93,91,84,great final presentation +10,A,A
+dd3e61,73,87,86,missed class frequently -10,C,C
+0c20cb,85,99,71,,B,B
+11f388,82,79,64,,C,C
+6d92b1,100,100,81,missed homework frequently -10,B,B
+56684b,99,87,99,great final presentation +10,A,A
+fb3045,0,84,93,"cheated on exam, gets 0pts",D,D
+8a6228,90,81,79,,B,D
+fd1f22,78,0,76,"cheated on exam, gets 0pts",F,F
+577281,92,73,89,,B,B
+781d05,74,77,79,missed homework frequently -10,D,A
+aad144,98,93,92,,A,A
+8be3e7,87,82,56,,C,C
+3a3788,96,56,70,,C,C
+92766b,81,89,78,missed homework frequently -10,C,C
+94c5d9,77,81,88,great participation +10,A,A
+d0cde7,78,53,96,missed homework frequently -10,D,D
+60c977,71,57,96,great participation +10,B,B
+de2a50,58,97,89,great participation +10,A,A
+750e0c,53,99,69,missed class frequently -10,D,B
+6bcef7,96,82,86,great participation +10,A,A
+88e509,71,90,92,great final presentation +10,A,A
+d4d286,0,81,97,"cheated on exam, gets 0pts",D,B
+1935a9,74,94,81,missed homework frequently -10,C,C
+8d904d,73,73,76,missed class frequently -10,D,D
+fd3ffd,0,78,80,"cheated on exam, gets 0pts",F,F
+7b4691,86,92,86,great participation +10,A,A
+11b8ff,97,94,87,great final presentation +10,A,A
+91a8a9,92,81,97,great final presentation +10,A,A
+a49ad1,93,0,60,"cheated on exam, gets 0pts",F,F
+f47dcb,82,0,79,"cheated on exam, gets 0pts",F,F
+6d3ee0,99,62,89,,B,D
+1803b9,75,0,55,"cheated on exam, gets 0pts",F,A
+309b2f,77,70,84,,C,C
+7c4cbf,76,81,96,,B,B
+8d40bc,68,63,96,missed class frequently -10,D,D
+659a12,71,54,99,missed homework frequently -10,D,D
+029d64,84,92,75,missed homework frequently -10,C,F
+96968e,90,84,97,great participation +10,A,A
+20c609,61,100,94,,B,D
+a72acb,73,56,91,missed class frequently -10,D,D
+0db4eb,83,88,57,missed homework frequently -10,D,A
+26e0d9,79,77,95,great participation +10,A,F
+4017cd,0,97,90,"cheated on exam, gets 0pts",D,D
+78c144,58,68,75,,D,D
+c111d6,63,82,53,,D,B
+fd0fb9,76,78,70,,C,F
+4ce31f,0,82,77,"cheated on exam, gets 0pts",F,F
+1ee4df,91,79,93,great final presentation +10,A,A
+fa106f,71,65,81,great participation +10,B,B
+dc4333,71,0,75,"cheated on exam, gets 0pts",F,F
+b9822e,98,77,86,,B,B
+42155a,56,80,79,,C,F
+bee970,99,90,90,,A,A
+de3e1a,80,83,87,,B,F
+7dee0e,79,75,74,,C,C
+1db3ff,95,81,76,,B,B
+eb1eab,72,87,90,missed class frequently -10,C,C
+412771,72,0,86,"cheated on exam, gets 0pts",F,F
+d030b5,91,0,94,"cheated on exam, gets 0pts",D,D
+4787de,73,84,68,great participation +10,B,D
+b3a1a5,0,96,90,"cheated on exam, gets 0pts",D,B
+796fae,98,89,71,missed class frequently -10,C,F
+579cc4,93,65,96,missed class frequently -10,C,A
+06a637,79,91,89,missed homework frequently -10,C,C
+1f5e9f,89,93,79,,B,B
+e82412,96,90,77,,B,B
+155c8b,0,65,87,"cheated on exam, gets 0pts",F,F
+a0b792,92,86,78,,B,B
+c42464,74,0,85,"cheated on exam, gets 0pts",F,F
+569c21,73,80,95,,B,B
+a3f0e3,69,93,84,,B,F
+77ddb9,91,99,90,,A,A
+5e06b1,73,92,91,great final presentation +10,A,A
+018bff,94,41,91,great participation +10,B,B
+f24115,91,96,92,,A,F
+f549d6,69,94,58,missed homework frequently -10,D,B
+9f0216,94,79,89,,B,B
+182f74,0,92,98,"cheated on exam, gets 0pts",D,D
+2a88bb,89,92,79,,B,B
+f68c58,92,86,81,,B,D
+dccc8c,82,85,89,,B,F
+6aace8,82,77,92,missed class frequently -10,C,C
+b859c5,99,65,87,,B,B
+04b16b,73,95,67,,C,C
+2caa08,98,94,90,great participation +10,A,A
+e330a0,95,78,60,great participation +10,B,D
+fd8db2,90,67,77,missed class frequently -10,D,D
+f8ca91,96,0,90,"cheated on exam, gets 0pts",D,D
+303db0,86,80,89,,B,B
+513201,51,78,84,,C,C
+579581,99,75,88,,B,B
+e1ac6f,93,58,70,great final presentation +10,B,D
+244ea8,95,0,72,"cheated on exam, gets 0pts",F,F
+0e31d4,88,71,93,,B,B
+e09d9b,91,92,70,,B,D
+0e4f01,98,92,69,,B,B
+fe7277,90,0,100,"cheated on exam, gets 0pts",D,B
+d77a5c,89,70,74,,C,C
+e6ac34,97,82,80,,B,D
+464aab,78,81,74,missed homework frequently -10,D,D
+df28ca,77,87,83,,B,D
+fc55c3,86,99,97,,A,A
+be1471,92,92,85,great final presentation +10,A,A
+c39ac7,86,80,66,,C,C
+0a420f,59,70,86,,C,C
+22daa1,93,75,91,,B,B
+848c64,76,54,65,,D,D
+85b1fe,72,78,69,missed homework frequently -10,D,D
+8804a1,58,90,80,,C,C
+405989,77,84,86,,B,D
+aef92a,92,66,65,missed homework frequently -10,D,D
+592043,88,83,86,great final presentation +10,A,F
+d5deef,65,0,88,"cheated on exam, gets 0pts",F,F
+1f2870,89,72,60,great final presentation +10,B,F
+a80ea8,84,79,97,great final presentation +10,A,A
+bfcb37,96,64,65,,C,C
+4065e7,96,75,92,great final presentation +10,A,A
+40e901,62,92,76,,C,C
+3c4cbb,94,62,66,,C,C
+a492e7,85,74,92,,B,B
+c23a96,73,90,68,missed homework frequently -10,D,D
+1d3d52,81,76,97,great participation +10,A,A
+7844d1,96,87,80,missed class frequently -10,C,C
+dda6c7,83,85,90,great participation +10,A,A
+0c3423,85,100,79,missed class frequently -10,C,F
+844a91,75,77,73,missed homework frequently -10,D,D
+5a3ede,84,94,47,missed homework frequently -10,D,D
+28e939,84,96,73,great participation +10,A,A
+060618,65,85,50,,D,D
+813385,90,54,80,,C,C
+e9b754,68,99,99,great final presentation +10,A,A
+f17261,95,88,69,,B,D
+3ea346,0,97,85,"cheated on exam, gets 0pts",D,D
+77bf3d,89,93,70,missed homework frequently -10,C,C
+b3b4e4,68,83,76,,C,F
+6520ae,79,81,89,great final presentation +10,A,A
+80cf8a,73,95,93,,B,B
+5e4339,87,93,91,great participation +10,A,A
+8c385b,86,71,68,,C,C
+a38243,95,96,64,,B,D
+95c45e,99,95,67,,B,B
+be9274,75,78,97,,B,B
+60f3b4,85,72,70,,C,C
+213b34,89,74,85,missed class frequently -10,C,C
+f2144b,74,94,84,great participation +10,A,A
+c97ec4,95,75,97,great final presentation +10,A,A
+9486df,83,93,77,,B,B
+36284d,78,58,86,great final presentation +10,B,B
+41d2ec,88,56,80,,C,C
+84aabd,94,94,72,great participation +10,A,A
+57a7d7,84,87,96,great final presentation +10,A,A
+8b81cc,99,76,95,great participation +10,A,A
+aab213,96,94,89,,A,A
+655f56,67,80,51,,D,D
+76c083,91,92,74,,B,B
+fdcc94,77,96,78,,B,B
+5b2f76,99,86,95,missed class frequently -10,B,B
+bacc99,72,82,100,great participation +10,A,A
+6d25c7,89,99,73,great final presentation +10,A,A
+c4e180,67,76,33,,F,F
+1c6561,46,70,77,,D,D
+b2b1d4,46,92,66,,D,D
+919291,87,78,82,missed homework frequently -10,C,C
+9d3aa8,80,98,84,great participation +10,A,A
+e86e4c,91,92,95,missed homework frequently -10,B,B
+dacfb9,80,60,80,,C,F
+56cc4f,88,75,59,missed class frequently -10,D,D
+25d4ad,93,73,97,great final presentation +10,A,A
+193408,86,67,76,missed homework frequently -10,D,D
+b2a3ca,59,94,80,missed homework frequently -10,D,B
+363a3f,61,77,88,,C,C
+31d114,88,56,82,great participation +10,B,B
+c80059,86,89,85,great final presentation +10,A,F
+4ec774,72,90,98,,B,F
+cd52b5,68,93,73,,C,C
+79d007,94,93,91,missed homework frequently -10,B,B
+25ca30,91,98,97,great participation +10,A,A
+bc18ee,91,0,89,"cheated on exam, gets 0pts",D,D
+7af92f,58,54,37,,F,F
+d6db38,93,88,79,missed homework frequently -10,C,C
+514b4e,0,72,88,"cheated on exam, gets 0pts",F,F
+c33c21,61,76,87,,C,C
+f0caf4,84,97,99,,A,A
+4faf00,86,98,95,,A,A
+df0368,80,76,66,,C,C
+c8ef2c,0,50,85,"cheated on exam, gets 0pts",F,A
+a3b392,73,64,87,missed homework frequently -10,D,B
+ff5692,0,69,90,"cheated on exam, gets 0pts",F,F
+e79b6e,86,45,86,great final presentation +10,B,B
+a0da76,64,93,70,,C,C
+461371,87,57,76,,C,C
+9f7f44,61,65,100,missed homework frequently -10,D,D
+24cfc2,87,56,85,,C,A
+2383a2,83,77,72,missed homework frequently -10,D,D
+a5a46a,78,89,81,,B,B
+7e73d6,95,94,89,,A,A
+cb9258,84,96,91,great final presentation +10,A,A
+b54c36,67,93,93,,B,B
+f60864,77,79,94,,B,B
+f25629,86,74,61,,C,C
+b34a12,0,71,80,"cheated on exam, gets 0pts",F,F
+61e807,79,62,82,,C,C
+4591b4,66,72,83,missed homework frequently -10,D,B
+fe27ba,79,89,86,great final presentation +10,A,A
+0909cb,73,82,69,missed class frequently -10,D,B
+cba083,76,84,67,,C,C
+eae349,0,84,72,"cheated on exam, gets 0pts",F,F
+b477ac,0,92,56,"cheated on exam, gets 0pts",F,F
+f71050,99,83,88,great participation +10,A,A
+7dc5af,91,61,100,,B,B
+9b3382,83,52,88,missed homework frequently -10,D,D
+45234d,83,93,54,,C,C
+cceb42,0,93,88,"cheated on exam, gets 0pts",D,D
+a40e3e,95,82,54,,C,C
+6b74a4,86,67,98,,B,B
+6d97c0,91,89,83,missed class frequently -10,C,C
+71a93a,100,73,84,missed homework frequently -10,C,C
+b4a1fe,52,95,72,great participation +10,B,B
+6b6ec4,64,73,79,great final presentation +10,B,B
+347d55,98,51,74,,C,F
+80b500,86,91,86,missed class frequently -10,C,C
+d6d208,97,97,92,missed homework frequently -10,B,B
+9c1e86,88,89,80,missed class frequently -10,C,C
+50bebd,54,80,81,,C,A
+b4d929,90,70,68,,C,C
+6b1427,78,63,75,great final presentation +10,B,F
+0c44f9,93,90,82,,B,D
+c3875c,66,73,89,,C,C
+4a3475,82,88,78,great final presentation +10,A,A
+fe8fea,83,87,88,missed homework frequently -10,C,C
+71fc7a,53,100,78,great final presentation +10,B,B
+dc4e28,93,70,97,,B,B
+ddd0ba,93,73,82,,B,B
+2bd759,93,79,97,great participation +10,A,F
+94e777,99,86,54,,C,C
+17b236,85,80,60,,C,C
+c787f8,64,86,78,,C,C
+1fa9cb,95,88,77,,B,B
+cbd44f,96,62,92,great participation +10,A,A
+acd7e9,84,0,80,"cheated on exam, gets 0pts",F,F
+dcf360,88,71,94,great participation +10,A,A
+088de7,92,93,81,,B,B
+6c4ef2,93,94,94,,A,A
+2ac30c,86,87,86,missed class frequently -10,C,C
+7554ac,80,85,84,missed homework frequently -10,C,C
+9d6277,0,73,89,"cheated on exam, gets 0pts",F,F
+1d4586,89,78,88,great participation +10,A,A
+177a10,66,90,50,,D,B
+63e008,81,0,75,"cheated on exam, gets 0pts",F,F
+b2cf57,87,93,76,missed class frequently -10,C,C
+8fc6a3,71,76,56,,D,D
+5b2c55,94,70,85,great participation +10,A,A
+9ae20c,90,60,78,,C,C
+014d82,73,96,92,,B,B
+a7a562,0,49,93,"cheated on exam, gets 0pts",F,F
+714b09,97,81,100,great participation +10,A,F
+b81c7f,0,54,74,"cheated on exam, gets 0pts",F,F
+dbbcb7,86,75,62,,C,C
+5458de,89,90,93,great final presentation +10,A,A
+bf5e17,65,94,94,,B,B
+e60eb1,91,99,79,great participation +10,A,A
+299f65,69,55,95,,C,C
+fc6b2d,77,71,78,,C,C
+37fd76,99,59,70,missed class frequently -10,D,D
+4b1dcc,88,93,92,great final presentation +10,A,A
+b20f6d,81,92,77,,B,B
+0a2b7a,84,74,91,great participation +10,A,A
+e01ea5,85,81,87,,B,B
+af3867,88,67,92,,B,D
+ba0f30,97,0,94,"cheated on exam, gets 0pts",D,B
+ab8a1c,99,67,89,great final presentation +10,A,A
+c8cb74,95,77,87,,B,B
+7b905c,81,95,77,,B,B
+7e47d0,72,80,69,,C,C
+198918,95,59,90,great participation +10,A,A
+018915,89,95,87,great participation +10,A,A
+e4742f,81,56,90,great final presentation +10,B,B
+d6cb52,87,0,91,"cheated on exam, gets 0pts",D,D
+bcbe7b,79,0,59,"cheated on exam, gets 0pts",F,F
+e2614a,85,62,75,,C,F
+fa2fd9,64,75,90,,C,C
+a3d6f5,69,87,94,great participation +10,A,A
+cbaab2,87,77,96,,B,B
+567b3d,80,92,84,,B,D
+939231,52,80,50,missed class frequently -10,F,A
+6ec3d7,83,70,71,,C,C
+614fd6,77,95,85,,B,B
+7d8853,72,80,93,,B,B
+0d0ab1,89,67,95,great final presentation +10,A,A
+6b356b,90,87,99,,A,A
+fc3a83,85,79,87,,B,B
+bf4deb,69,95,62,great participation +10,B,B
+cbcebf,69,92,99,missed homework frequently -10,C,F
+af76a4,97,61,76,missed homework frequently -10,D,D
+f2be6b,0,76,75,"cheated on exam, gets 0pts",F,F
+913048,91,74,88,great participation +10,A,A
+4a3f75,83,92,80,missed class frequently -10,C,C
+2254d6,82,0,58,"cheated on exam, gets 0pts",F,F
+be7541,92,96,90,,A,A
+60561a,59,82,61,,D,D
+1aad87,65,91,72,,C,C
+612ebd,65,81,75,,C,C
+196f78,97,0,92,"cheated on exam, gets 0pts",D,B
+fcdf1a,71,86,89,missed class frequently -10,C,C
+9c94ca,94,0,95,"cheated on exam, gets 0pts",D,D
+bb13f4,65,95,68,,C,A
+967af6,84,83,60,,C,C
+343dd3,67,87,95,missed homework frequently -10,C,C
+134233,88,69,100,,B,B
+ddb65f,65,98,93,,B,B
+7cb11e,78,57,85,,C,A
+404534,92,97,44,,C,A
+904506,83,88,88,,B,B
+f4df5d,83,79,93,great participation +10,A,F
+59bb90,96,91,90,great final presentation +10,A,A
+9d5445,76,91,100,great participation +10,A,A
+436bd4,85,92,84,missed homework frequently -10,C,C
+6b1ead,92,90,77,great participation +10,A,A
+087345,83,78,74,,C,C
+6fd557,97,98,92,,A,A
+cc4821,88,78,91,great final presentation +10,A,A
+8576b8,95,41,56,,D,D
+e08025,97,86,54,missed homework frequently -10,D,D
+21baf3,68,73,81,missed class frequently -10,D,D
+d4db34,94,92,75,great participation +10,A,A
+cf31cf,96,84,74,,B,B
+e4f0d5,86,85,89,missed homework frequently -10,C,C
+a6e753,87,81,86,,B,B
+ed82ec,77,0,87,"cheated on exam, gets 0pts",F,F
+7a68f0,84,83,85,missed class frequently -10,C,C
+0859ef,0,69,93,"cheated on exam, gets 0pts",F,F
+5b2d9a,94,95,90,missed class frequently -10,B,B
+97335b,57,78,83,,C,F
+18669e,92,74,88,great final presentation +10,A,A
+7c18ad,72,91,92,,B,F
+77432b,0,77,81,"cheated on exam, gets 0pts",F,F
+82c1fc,87,83,78,,B,B
+a9729d,69,85,79,,C,C
+558a4b,73,74,96,,B,F
+22957d,51,65,97,,C,A
+85a914,90,99,90,,A,A
+5e2cb8,85,0,96,"cheated on exam, gets 0pts",D,B
+ed1807,71,81,80,,C,C
+a1b3da,88,80,91,missed class frequently -10,C,C
+8dfc49,80,89,88,,B,B
+f7a71f,74,86,93,great participation +10,A,A
+1a77e5,0,72,67,"cheated on exam, gets 0pts",F,F
+3a0e8a,89,98,80,great participation +10,A,A
+eb6d03,92,92,76,,B,B
+1f6c26,77,78,95,missed homework frequently -10,C,C
+17e0c2,93,91,52,,C,C
+070561,84,97,89,great participation +10,A,A
+604e66,56,76,60,,D,D
+7efafe,80,95,61,,C,C
+8e6d24,90,95,75,great final presentation +10,A,A
+805f44,91,92,96,missed class frequently -10,B,B
+0fe053,66,91,70,missed class frequently -10,D,D
+9d2936,58,92,93,,B,D
+db4bcf,72,93,98,great participation +10,A,F
+ee3387,80,96,83,missed homework frequently -10,C,C
+f492d2,100,69,41,,D,D
+080e8c,91,98,77,,B,B
+0d8235,71,77,73,great final presentation +10,B,B
+02c7df,90,73,91,,B,B
+9f423d,66,95,86,,B,B
+f478b4,67,88,89,,B,B
+e38f8a,50,67,94,great final presentation +10,B,B
+1196ee,84,99,71,,B,B
+477ba7,80,65,55,,D,D
+dbcef2,67,83,77,,C,A
+4c682d,94,78,78,,B,B
+efb3be,72,63,91,great final presentation +10,B,B
+e1f71a,90,94,79,missed homework frequently -10,C,C
+310dca,83,90,83,,B,B
+85a963,74,79,92,missed homework frequently -10,C,C
+337183,93,75,93,,B,B
+8c4319,72,88,96,,B,B
+34ccdd,90,100,89,great participation +10,A,F
+437625,72,92,85,great participation +10,A,A
+528e8f,60,92,55,,D,D
+05a0bf,83,79,67,,C,C
+92ebce,93,96,94,great final presentation +10,A,A
+4f3bf8,63,68,84,,C,C
+790ccb,77,88,82,missed homework frequently -10,C,C
+a5992a,94,82,97,great final presentation +10,A,A
+a74a35,69,86,97,missed homework frequently -10,C,C
+794c31,90,77,99,great participation +10,A,A
+c96390,0,99,92,"cheated on exam, gets 0pts",D,D
+c84e0a,93,82,88,,B,D
+f2616f,86,86,85,missed class frequently -10,C,C
+15ec3d,76,92,64,great participation +10,B,B
+5ba277,94,97,93,great participation +10,A,A
+a4910b,89,71,94,,B,F
+c32981,89,57,47,,D,D
+695f96,96,69,92,,B,B
+b3c9a0,91,74,88,,B,B
+487e6d,85,100,78,,B,B
+430247,85,0,59,"cheated on exam, gets 0pts",F,A
+de5426,81,94,82,,B,B
+5bf926,87,64,94,,B,D
+523ede,68,56,98,great final presentation +10,B,B
+be608c,56,79,85,,C,C
+264458,88,83,83,,B,B
+52d316,85,93,84,,B,D
+5e9c99,87,79,82,great final presentation +10,A,A
+f13fdf,92,87,60,great participation +10,B,B
+e79f61,81,97,100,,A,A
+df814d,78,85,84,,B,B
+1fcea5,94,83,88,great final presentation +10,A,A
+60ee3f,0,97,88,"cheated on exam, gets 0pts",D,D
+c9f351,96,64,93,great final presentation +10,A,A
+3d0344,69,87,51,,D,D
+21499d,81,67,100,great participation +10,A,A
+bcd50a,81,87,60,missed class frequently -10,D,D
+308e1e,66,83,77,,C,F
+b736fb,76,72,100,great final presentation +10,A,A
+a4cca4,92,73,85,great final presentation +10,A,A
+4d6494,80,85,93,great participation +10,A,A
+882fb9,86,81,88,great final presentation +10,A,F
+32e464,56,75,71,,D,D
+449eb9,72,0,76,"cheated on exam, gets 0pts",F,F
+66f462,62,64,63,,D,D
+c02824,75,0,65,"cheated on exam, gets 0pts",F,F
+6785fd,89,65,74,missed homework frequently -10,D,D
+31c10d,91,0,68,"cheated on exam, gets 0pts",F,F
+edd586,72,81,80,,C,C
+bda572,73,96,100,great participation +10,A,A
+d2b805,78,94,83,,B,D
+63be9d,94,82,83,,B,B
+d08463,95,83,100,,A,F
+051ae6,76,83,86,,B,F
+2ef072,93,56,74,,C,C
+068e03,91,75,100,great participation +10,A,A
+cbe2f7,82,94,85,,B,B
+34a7d0,83,79,92,missed homework frequently -10,C,C
+cbb6f5,92,44,66,,D,D
+bcdf72,78,0,86,"cheated on exam, gets 0pts",F,F
+ea43f9,80,96,80,,B,B
+9d5c6f,87,48,91,,C,C
+855d7e,78,89,68,,C,C
+ee538b,100,100,99,,A,F
+60786d,43,0,85,"cheated on exam, gets 0pts",F,F
+338cae,0,89,90,"cheated on exam, gets 0pts",D,A
+fbc055,88,74,96,great final presentation +10,A,A
+912928,81,98,96,,A,A
+454e51,84,92,86,,B,B
+03b168,83,86,85,missed homework frequently -10,C,F
+2076d3,67,98,65,missed homework frequently -10,D,D
+84727d,0,95,94,"cheated on exam, gets 0pts",D,D
+de292e,84,99,47,great final presentation +10,B,F
+68827d,91,98,75,missed class frequently -10,C,C
+0bbb87,85,91,83,great participation +10,A,F
+39f6e5,92,50,87,,C,C
+a0a66b,99,84,82,missed class frequently -10,C,F
+0ce163,87,74,86,missed homework frequently -10,C,A
+dfea38,90,96,71,missed class frequently -10,C,C
+0f3439,61,54,100,,C,C
+890038,74,48,74,,D,A
+6235cb,98,68,58,,C,C
+fb9f63,92,87,49,,C,C
+cfba4c,70,75,99,,B,B
+832336,80,0,99,"cheated on exam, gets 0pts",D,D
+bf1b14,66,83,96,,B,D
+433fb9,69,49,75,,D,D
+d98b67,93,95,67,,B,B
+6db401,87,85,77,,B,B
+88d991,82,68,48,,D,D
+faf401,75,90,93,,B,B
+155b05,67,92,64,,C,F
+5ba892,98,97,93,,A,A
+bbcb14,73,93,86,,B,B
+8c4f45,58,0,71,"cheated on exam, gets 0pts",F,F
+c1226d,97,94,76,,B,B
+01dd6e,92,99,87,missed homework frequently -10,B,B
+e41b2c,73,87,92,,B,B
+192ed3,79,60,84,,C,C
+3b6bc7,62,54,71,,D,D
+81e9ff,41,80,93,,C,C
+6225b8,91,90,81,great participation +10,A,A
+12a73f,96,83,73,great final presentation +10,A,A
+c2f145,98,88,95,,A,F
+9ea285,83,80,86,,B,B
+938245,86,90,80,great final presentation +10,A,A
+7f6511,90,67,77,missed class frequently -10,D,D
+54a40e,59,68,65,,D,D
+802d46,76,85,74,,C,A
+7116b4,71,89,96,great final presentation +10,A,A
+ecbe49,82,68,80,,C,C
+c45d3d,57,74,86,,C,C
+ba680b,91,97,96,,A,A
+febb53,89,75,64,great final presentation +10,B,F
+975b58,69,87,70,missed homework frequently -10,D,D
+d50b9d,90,66,96,great final presentation +10,A,A
+a8ccd4,92,0,71,"cheated on exam, gets 0pts",F,F
+71a157,71,89,90,,B,B
+ccd8c8,53,0,76,"cheated on exam, gets 0pts",F,F
+1afe93,90,79,89,,B,D
+87478a,92,95,92,,A,A
+74676b,81,100,74,,B,F
+46f477,92,71,93,great participation +10,A,A
+79d45f,0,87,94,"cheated on exam, gets 0pts",D,D
+2d09ef,54,76,96,,C,C
+204fe8,86,67,80,,C,C
+9665f9,94,79,58,great final presentation +10,B,B
+523e05,57,89,55,,D,B
+8686dd,81,81,91,,B,B
+cfdfba,71,94,89,,B,B
+8dabc9,95,83,83,,B,B
+e91257,99,87,71,,B,B
+3bcc91,81,86,95,great participation +10,A,A
+9df82e,94,78,89,,B,B
+9a1de5,99,73,84,missed homework frequently -10,C,C
+bca07d,56,90,71,missed class frequently -10,D,D
+86bd1a,79,83,92,,B,F
+8c54c1,94,77,82,great participation +10,A,A
+7da2b6,100,62,61,missed class frequently -10,D,D
+1a7614,88,92,83,,B,B
+7fdb63,89,86,90,great final presentation +10,A,A
+0f7f19,93,53,77,,C,C
+28a05f,92,0,61,"cheated on exam, gets 0pts",F,F
+162d3c,89,77,68,,C,F
+3dbb29,96,98,92,great final presentation +10,A,A
+672ab5,79,98,84,,B,D
+03d6b7,93,47,79,great participation +10,B,B
+66c47a,92,93,73,missed homework frequently -10,C,C
+ad9ffe,67,69,84,missed class frequently -10,D,D
+6a11a5,94,79,79,great participation +10,A,A
+bd023c,95,73,57,great final presentation +10,B,B
+8639ff,91,91,78,great final presentation +10,A,A
+985a12,81,69,95,,B,B
+942d65,80,76,96,missed class frequently -10,C,A
+4a6f46,76,82,91,great final presentation +10,A,A
+de03e5,78,95,54,missed homework frequently -10,D,A
+bb243d,86,96,100,,A,A
+88e562,98,75,89,great final presentation +10,A,A
+1dc157,79,73,72,,C,C
+a9c51a,83,74,97,,B,B
+fec764,78,95,87,,B,B
+77c9c5,0,79,65,"cheated on exam, gets 0pts",F,A
+735d5e,89,66,90,,B,B
+3b57c6,81,96,96,great participation +10,A,A
+431b5d,68,65,89,,C,A
+ded944,86,85,89,,B,D
+649fd5,99,99,87,,A,A
+385b54,68,95,90,,B,B
+44dd54,79,81,69,,C,C
+d8dff2,95,69,83,missed homework frequently -10,C,C
+e447ea,68,0,38,"cheated on exam, gets 0pts",F,F
+a4b5a3,93,82,85,missed homework frequently -10,C,C
+2b45d1,80,85,86,missed homework frequently -10,C,A
+1a32f1,0,87,99,"cheated on exam, gets 0pts",D,D
+19e8e6,96,79,92,great participation +10,A,F
+0e0d2a,95,82,76,,B,D
+a04379,89,81,64,missed class frequently -10,D,D
+9f6d79,91,97,53,great participation +10,B,D
+1f764f,65,94,92,,B,B
+c304a8,64,91,97,,B,B
+1f88cd,94,90,90,great participation +10,A,A
+a6fbc9,85,82,55,great participation +10,B,B
+44c1e5,88,91,80,,B,B
+c6a20e,99,95,99,great participation +10,A,A
+8a0a87,66,0,78,"cheated on exam, gets 0pts",F,A
+04500c,49,77,89,great participation +10,B,B
+f85354,88,69,89,,B,B
+85c1f9,77,54,70,,D,D
+46dc7c,74,80,90,,B,B
+f680e8,86,97,95,,A,A
+bb3bab,97,88,74,great participation +10,A,F
+098658,0,96,87,"cheated on exam, gets 0pts",D,D
+37ad23,89,74,85,,B,B
+600f0b,55,71,98,missed homework frequently -10,D,A
+7e6566,78,76,72,,C,C
+26b585,99,77,81,great final presentation +10,A,A
+fceb4e,78,63,88,,C,C
+64c2db,96,76,85,,B,F
+932be0,88,88,83,missed class frequently -10,C,C
+a1ea50,89,85,87,great final presentation +10,A,A
+d550ea,89,78,94,,B,F
+cfdef4,93,81,77,great participation +10,A,A
+c1246d,71,96,65,missed class frequently -10,D,D
+b037d4,70,96,32,missed homework frequently -10,F,F
+865cbd,95,87,82,missed class frequently -10,C,A
+6c8e02,81,56,58,,D,D
+59109e,91,69,90,,B,B
+7632bc,97,84,87,great participation +10,A,A
+705a75,61,0,97,"cheated on exam, gets 0pts",F,F
+e9e16e,70,99,90,,B,B
+57b96e,72,91,91,,B,F
+dbf691,73,77,73,,C,C
+fcb2db,58,90,100,great participation +10,A,A
+b0306d,77,51,70,,D,B
+9afe83,78,58,86,great final presentation +10,B,B
+d5938e,95,94,89,,A,A
+492439,65,0,95,"cheated on exam, gets 0pts",F,F
+c8a747,80,0,98,"cheated on exam, gets 0pts",D,B
+52b32c,65,0,92,"cheated on exam, gets 0pts",F,F
+ce494c,89,91,57,,C,C
+c07e99,65,72,86,great participation +10,B,B
+e202f3,74,81,74,,C,A
+0094d7,94,91,93,great participation +10,A,A
+1c40fc,66,82,82,missed homework frequently -10,D,A
+4a41b3,92,81,54,,C,C
+b87af9,78,75,96,,B,B
+94ef75,81,79,86,,B,F
+7e33f1,78,84,71,,C,C
+7c89a5,84,81,88,,B,B
+3dad3d,97,0,90,"cheated on exam, gets 0pts",D,A
+152209,0,61,84,"cheated on exam, gets 0pts",F,F
+397a45,85,94,84,,B,B
+6ad6ea,100,82,72,great participation +10,A,A
+3dd1e5,64,70,86,,C,F
+3e05b2,68,74,40,missed homework frequently -10,F,F
+bea725,90,82,60,missed class frequently -10,D,D
+84ebfc,87,97,99,,A,A
+7b00e6,0,75,78,"cheated on exam, gets 0pts",F,F
+da9699,76,74,97,,B,B
+c54fc5,90,88,84,missed homework frequently -10,C,C
+8fdfa8,92,72,94,,B,B
+a3aa70,87,83,87,missed class frequently -10,C,C
+1d9bb1,87,82,57,,C,C
+982758,70,92,96,missed homework frequently -10,C,F
+cbf51c,94,77,87,,B,B
+4938b4,84,65,95,missed class frequently -10,C,C
+d57e1a,92,79,98,great final presentation +10,A,A
+6550c0,53,89,78,,C,A
+dfe09e,0,83,76,"cheated on exam, gets 0pts",F,F
+a23de6,82,69,75,great final presentation +10,B,B
+a958ce,88,90,81,missed homework frequently -10,C,C
+5853bc,78,89,58,,C,F
+1ee8dc,41,88,98,missed class frequently -10,D,D
+97b5cc,93,68,86,missed homework frequently -10,C,C
+0648a4,92,75,93,missed homework frequently -10,C,C
+04d913,53,0,94,"cheated on exam, gets 0pts",F,F
+c771eb,90,95,68,,B,B
+a4abb0,43,76,91,missed homework frequently -10,D,D
+a7eb4c,96,73,89,missed homework frequently -10,C,C
+b8f3a8,79,76,98,,B,B
+491efb,82,87,82,,B,B
+d25806,82,80,98,great final presentation +10,A,A
+185495,93,96,90,,A,A
+d0b11d,88,96,79,great final presentation +10,A,A
+1f40e6,58,66,74,,D,D
+b71f53,88,81,85,,B,B
+d2977f,58,80,89,,C,C
+74fed8,97,76,90,,B,B
+3d0fdf,90,74,95,great participation +10,A,F
+f1a6b8,79,86,99,great final presentation +10,A,A
+e871c0,93,36,62,,D,D
+e34bcc,34,91,92,missed homework frequently -10,D,D
+390000,83,62,55,,D,D
+3065d6,81,75,77,,C,C
+99721f,80,77,98,missed class frequently -10,C,C
+2603bd,99,97,70,,B,B
+38d57f,83,99,80,,B,B
+3d0aac,80,72,97,,B,B
+091ebb,0,68,87,"cheated on exam, gets 0pts",F,F
+611b02,71,95,45,,D,D
+3235bf,92,89,82,great final presentation +10,A,A
+b3df84,89,62,93,,B,B
+ff7179,64,89,91,great final presentation +10,A,A
+0a23c5,0,79,68,"cheated on exam, gets 0pts",F,F
+622a4a,80,91,60,,C,A
+9403ea,96,0,62,"cheated on exam, gets 0pts",F,F
+04babf,70,92,93,missed homework frequently -10,C,C
+d18603,48,50,65,,F,F
+d30e8a,0,89,91,"cheated on exam, gets 0pts",D,A
+75ce98,91,89,81,,B,F
+7cb144,99,84,94,,A,A
+4f4f99,94,97,91,,A,A
+0c883c,84,93,62,missed class frequently -10,D,D
+fd764d,82,64,80,great final presentation +10,B,B
+6afd2d,78,60,88,great final presentation +10,B,B
+701ea2,71,92,94,,B,B
+43c0c8,59,84,83,missed class frequently -10,D,D
+535cbe,74,96,92,missed class frequently -10,C,C
+0ab17d,80,95,58,,C,F
+91c994,96,64,92,great final presentation +10,A,A
+90681b,0,88,95,"cheated on exam, gets 0pts",D,D
+3f2482,97,65,85,missed class frequently -10,C,C
+0ec269,64,85,97,,B,B
+551c0d,85,97,86,great participation +10,A,A
+7f55df,85,96,48,,C,C
+008816,87,58,34,missed homework frequently -10,F,F
+e3ea98,85,82,85,great participation +10,A,A
+5f5671,93,74,91,,B,B
+236318,58,75,91,missed class frequently -10,D,D
+3b908c,98,73,83,,B,B
+946bfc,92,84,92,great participation +10,A,A
+bd574a,93,88,84,great participation +10,A,F
+73640a,88,80,93,,B,B
+75a52e,72,94,88,,B,B
+9dad4d,58,90,97,,B,B
+bb6d04,70,97,42,,D,D
+5a14f6,73,86,64,,C,C
+0e6d17,76,88,94,great final presentation +10,A,A
+414597,71,96,83,great final presentation +10,A,A
+481835,74,58,92,great final presentation +10,B,F
+5ad7f1,78,95,78,,B,B
+2a5702,49,95,77,,C,C
+7948b6,85,93,58,,C,C
+da9646,91,90,74,,B,D
+cefe03,98,97,87,,A,F
+e62eaf,74,98,86,,B,B
+946777,94,0,72,"cheated on exam, gets 0pts",F,F
+654a1c,83,85,92,great final presentation +10,A,A
+7af21d,85,87,90,,B,B
+5686d8,65,0,57,"cheated on exam, gets 0pts",F,F
+a33f92,72,0,80,"cheated on exam, gets 0pts",F,F
+44d129,90,76,81,,B,B
+794659,0,65,88,"cheated on exam, gets 0pts",F,F
+35b9ec,89,97,96,missed homework frequently -10,B,B
+b6d817,84,94,100,great final presentation +10,A,A
+0fa39c,95,80,86,,B,F
+e8901f,69,90,86,missed homework frequently -10,C,C
+6a5846,95,90,69,,B,B
+53cac1,93,98,75,,B,D
+e8c2c4,72,85,91,missed homework frequently -10,C,A
+515394,85,74,87,missed homework frequently -10,C,A
+c67dd3,90,82,86,,B,F
+89efac,69,86,75,,C,C
+eaa94b,99,75,78,,B,B
+015745,96,95,89,,A,A
+9923ac,99,93,90,,A,A
+0ac829,0,92,60,"cheated on exam, gets 0pts",F,F
+00dfe5,85,91,84,,B,B
+64a22b,99,62,90,,B,B
+539378,62,92,95,,B,B
+275403,60,37,62,,F,F
+c1864f,99,86,74,,B,D
+a2f9d4,48,47,84,missed homework frequently -10,F,A
+00c486,70,84,76,,C,C
+4e175c,88,91,53,,C,C
+1d5dbb,74,61,87,,C,C
+87247d,98,71,93,,B,B
+300ff8,51,75,87,,C,C
+693c20,98,85,82,great final presentation +10,A,A
+9bf6f9,97,0,42,"cheated on exam, gets 0pts",F,F
+92991e,83,91,63,,C,F
+4d65cf,82,61,87,great participation +10,B,B
+59f134,92,84,62,,C,C
+b478d0,86,89,82,,B,B
+f68d7d,73,74,76,missed class frequently -10,D,B
+30797d,87,0,96,"cheated on exam, gets 0pts",D,D
+785161,52,86,87,,C,C
+b9e93d,71,94,95,great final presentation +10,A,A
+aec48e,82,90,85,,B,B
+00c500,96,96,88,,A,A
+a83840,66,95,87,great final presentation +10,A,A
+2bbf06,68,80,74,,C,A
+6183f2,53,89,88,great final presentation +10,B,B
+803d2e,80,96,81,,B,D
+494da2,65,69,69,,D,D
+53a3ea,70,96,81,great final presentation +10,A,A
+3b6719,86,85,84,missed class frequently -10,C,C
+679a97,64,85,97,missed class frequently -10,C,A
+f7555f,87,0,70,"cheated on exam, gets 0pts",F,A
+6a6bfd,94,90,99,missed class frequently -10,B,B
+bc714b,66,74,80,missed class frequently -10,D,D
+4815a3,62,98,93,great participation +10,A,A
+3f4dba,0,63,88,"cheated on exam, gets 0pts",F,F
+c772fd,82,99,82,,B,B
+cac168,85,90,80,missed homework frequently -10,C,C
+06e29b,78,73,98,,B,B
+64c2f3,91,68,88,,B,D
+57a2e9,70,71,88,great final presentation +10,B,B
+32d53f,71,78,80,great final presentation +10,B,D
+97f330,85,68,76,great participation +10,B,F
+24daf9,94,78,96,great participation +10,A,A
+127223,100,100,87,missed homework frequently -10,B,B
+29f7ae,96,73,94,great participation +10,A,A
+645813,67,88,91,,B,B
+36a80a,79,84,64,great final presentation +10,B,B
+498247,86,87,77,,B,B
+a8e4cf,83,94,78,missed homework frequently -10,C,F
+536815,97,90,72,,B,B
+923071,75,70,75,,C,A
+10ed39,83,71,70,great participation +10,B,D
+35e826,87,76,72,,C,C
+2a3194,65,82,83,missed homework frequently -10,D,A
+d291b3,69,72,89,,C,C
+543820,100,91,83,great participation +10,A,A
+0fa511,78,71,94,,B,B
+85f57e,61,78,64,,D,D
+0ac3dc,100,93,70,,B,D
+4be93c,85,88,81,,B,B
+930e7c,92,67,65,missed class frequently -10,D,D
+f00c02,97,86,68,missed homework frequently -10,C,A
+6be392,89,95,73,,B,D
+79d5e2,87,80,65,great final presentation +10,B,B
+17e02f,92,0,94,"cheated on exam, gets 0pts",D,D
+fe0c11,81,0,95,"cheated on exam, gets 0pts",D,D
+f799c7,82,69,92,,B,B
+47cddb,74,73,77,great final presentation +10,B,B
+772cc1,75,67,78,great final presentation +10,B,F
+37b7ea,80,59,86,,C,C
+a804c6,79,92,90,missed class frequently -10,C,C
+dec99c,67,63,83,great participation +10,B,B
+f24702,88,88,79,,B,B
+fa2926,76,87,60,missed homework frequently -10,D,D
+076d92,0,79,65,"cheated on exam, gets 0pts",F,F
+cdaced,65,93,88,great final presentation +10,A,A
+eca73f,73,71,83,,C,F
+9eaa47,73,64,88,,C,A
+8fa35a,94,88,79,great participation +10,A,A
+395839,93,71,89,,B,B
+656d2e,67,0,76,"cheated on exam, gets 0pts",F,F
+e3ed94,79,73,78,,C,C
+6439dc,84,76,65,missed class frequently -10,D,D
+4c8cb1,47,77,88,,C,C
+7acfd1,74,65,85,,C,A
+9c15dd,84,90,100,,A,A
+8c8e4f,84,87,77,,B,D
+c83ec9,90,0,88,"cheated on exam, gets 0pts",D,A
+dff0fb,84,85,61,,C,C
+d68299,57,85,86,,C,C
+c19761,94,0,89,"cheated on exam, gets 0pts",D,D
+afb6ce,73,80,95,,B,B
+d4d58b,87,80,91,,B,B
+a93747,100,80,78,missed class frequently -10,C,C
+0a9009,56,81,90,,C,F
+846993,67,65,65,,D,D
+de93f1,56,97,92,great final presentation +10,A,A
+1a9a50,79,0,75,"cheated on exam, gets 0pts",F,F
+f78399,66,95,95,,B,B
+1c1ee0,0,79,96,"cheated on exam, gets 0pts",D,D
+145f6e,88,80,89,,B,B
+042686,87,74,95,missed class frequently -10,C,C
+ef10df,71,92,83,,B,B
+2669e6,68,82,97,,B,B
+7e34cd,74,72,97,missed class frequently -10,C,F
+83e31f,90,92,88,great participation +10,A,A
+ca7327,79,80,91,,B,B
+0bdad5,71,0,82,"cheated on exam, gets 0pts",F,A
+34416e,78,48,96,,C,C
+4a1d6d,74,85,88,great participation +10,A,A
+ea6e42,85,94,75,missed class frequently -10,C,F
+6ecc7e,88,79,98,great final presentation +10,A,A
+3dff61,37,83,69,missed homework frequently -10,F,F
+9cc5f8,59,37,75,missed homework frequently -10,F,F
+35674a,0,97,60,"cheated on exam, gets 0pts",F,F
+fd7705,74,80,91,,B,B
+161625,88,66,74,,C,C
