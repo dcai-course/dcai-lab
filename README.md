@@ -1,7 +1,18 @@
 # Lab assignments for Introduction to Data-Centric AI
 
-Every lecture in the Introduction to DCAI class will have a corresponding lab
-assignment in the form of a Jupyter Notebook. More information about the lab
-assignments will be available closer to the start of the class.
+This repository contains the lab assignments for the [Introduction to
+Data-Centric AI](https://dcai.csail.mit.edu/) class.
 
-For more information, see <https://dcai.csail.mit.edu/>.
+Contributions are most welcome! If you have ideas for improving the labs,
+please open an issue or submit a pull request.
+
+## License
+
+Copyright (c) 2023 by the instructors of Introduction to Data-Centric AI (dcai.csail.mit.edu).
+
+dcai-lab is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+dcai-lab is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+See [GNU Affero General Public LICENSE](https://github.com/dcai-course/dcai-lab/blob/master/LICENSE.txt) for details.
+
