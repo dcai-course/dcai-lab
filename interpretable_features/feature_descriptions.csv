@@ -1,0 +1,261 @@
+name,description,category,type
+LotFrontage, Linear feet of street connected to property,size,numeric
+LotArea, Lot size in square feet,size,numeric
+Street, Type of road access to property,property,category
+LotShape, General shape of property,property,category
+Utilities, Type of utilities available,utilities,category
+LandSlope, Slope of property,property,category
+OverallQual, Rates the overall material and finish of the house,quality,category
+OverallCond, Rates the overall condition of the house,quality,category
+YearBuilt, Original construction date,dates,numeric
+YearRemodAdd, Remodel date (same as construction date if no remodeling or additions),dates,numeric
+MasVnrArea, Masonry veneer area in square feet,quality,numeric
+ExterQual, Evaluates the quality of the material on the exterior,quality,category
+ExterCond, Evaluates the present condition of the material on the exterior,quality,category
+BsmtQual, Evaluates the height of the basement,basement,category
+BsmtExposure, Refers to walkout or garden level walls,other,category
+BsmtFinType1, Rating of basement finished area,basement,category
+BsmtFinSF1, Type 1 finished square feet,basement,numeric
+BsmtFinType2, Rating of basement finished area (if multiple types),basement,category
+BsmtFinSF2, Type 2 finished square feet,basement,numeric
+BsmtUnfSF, Unfinished square feet of basement area,basement,numeric
+TotalBsmtSF, Total square feet of basement area,basement,numeric
+HeatingQC, Heating quality and condition,utilities,category
+1stFlrSF, First Floor square feet,size,numeric
+2ndFlrSF, Second floor square feet,size,numeric
+LowQualFinSF, Low quality finished square feet (all floors),quality,numeric
+GrLivArea, Above grade (ground) living area square feet,size,numeric
+BsmtFullBath, Basement full bathrooms,basement,numeric
+BsmtHalfBath, Basement half bathrooms,basement,numeric
+FullBath, Full bathrooms above grade,size,numeric
+HalfBath, Half baths above grade,size,numeric
+BedroomAbvGr, Bedrooms above grade (does NOT include basement bedrooms),size,numeric
+KitchenAbvGr, Kitchens above grade,size,numeric
+KitchenQual, Kitchen quality,quality,category
+TotRmsAbvGrd, Total rooms above grade (does not include bathrooms),size,numeric
+Functional, Home functionality (Assume typical unless deductions are warranted),other,category
+Fireplaces, Number of fireplaces,other,numeric
+FireplaceQu, Fireplace quality,other,category
+GarageYrBlt, Year garage was built,garage,numeric
+GarageCars, Size of garage in car capacity,garage,numeric
+GarageArea, Size of garage in square feet,garage,numeric
+GarageQual, Garage quality,garage,category
+GarageCond, Garage condition,garage,category
+PavedDrive, Paved driveway,garage,category
+WoodDeckSF, Wood deck area in square feet,outdoor,numeric
+OpenPorchSF, Open porch area in square feet,outdoor,numeric
+EnclosedPorch, Enclosed porch area in square feet,outdoor,numeric
+3SsnPorch, Three season porch area in square feet,outdoor,numeric
+ScreenPorch, Screen porch area in square feet,outdoor,numeric
+PoolArea, Pool area in square feet,outdoor,numeric
+PoolQC, Pool quality,outdoor,category
+MiscVal, $Value of miscellaneous feature,other,category
+YrSold, Year Sold (YYYY),dates,numeric
+MSSubClass_SC120,Type of dwelling involved in the sale. (1-STORY PUD (Planned Unit Development) - 1946 & NEWER),general,boolean
+MSSubClass_SC160,Type of dwelling involved in the sale. (2-STORY PUD - 1946 & NEWER),general,boolean
+MSSubClass_SC180,Type of dwelling involved in the sale. (PUD - MULTILEVEL - INCL SPLIT LEV/FOYER),general,boolean
+MSSubClass_SC190,Type of dwelling involved in the sale. (2 FAMILY CONVERSION - ALL STYLES AND AGES),general,boolean
+MSSubClass_SC20,Type of dwelling involved in the sale. (1-STORY 1946 & NEWER ALL STYLES),general,boolean
+MSSubClass_SC30,Type of dwelling involved in the sale. (1-STORY 1945 & OLDER),general,boolean
+MSSubClass_SC40,Type of dwelling involved in the sale. (1-STORY W/FINISHED ATTIC ALL AGES),general,boolean
+MSSubClass_SC45,Type of dwelling involved in the sale. (1-1/2 STORY - UNFINISHED ALL AGES),general,boolean
+MSSubClass_SC50,Type of dwelling involved in the sale. (1-1/2 STORY FINISHED ALL AGES),general,boolean
+MSSubClass_SC60,Type of dwelling involved in the sale. (2-STORY 1946 & NEWER),general,boolean
+MSSubClass_SC70,Type of dwelling involved in the sale. (2-STORY 1945 & OLDER),general,boolean
+MSSubClass_SC75,Type of dwelling involved in the sale. (2-1/2 STORY ALL AGES),general,boolean
+MSSubClass_SC80,Type of dwelling involved in the sale. (SPLIT OR MULTI-LEVEL),general,boolean
+MSSubClass_SC85,Type of dwelling involved in the sale. (SPLIT FOYER),general,boolean
+MSSubClass_SC90,Type of dwelling involved in the sale. (DUPLEX - ALL STYLES AND AGES),general,boolean
+MSZoning_C (all),General zoning classification of the sale. (C (all)),general,boolean
+MSZoning_FV,General zoning classification of the sale. (Floating Village Residential),general,boolean
+MSZoning_RH,General zoning classification of the sale. (Residential High Density),general,boolean
+MSZoning_RL,General zoning classification of the sale. (Residential Low Density),general,boolean
+MSZoning_RM,General zoning classification of the sale. (Residential Medium Density),general,boolean
+Alley_1, Type of alley access to property (1),property,boolean
+Alley_2, Type of alley access to property (2),property,boolean
+Alley_None, Type of alley access to property (None),property,boolean
+LandContour_Bnk, Flatness of the property (Banked - Quick and significant rise from street grade to building),property,boolean
+LandContour_HLS, Flatness of the property (Hillside - Significant slope from side to side),property,boolean
+LandContour_Low, Flatness of the property (Depression),property,boolean
+LandContour_Lvl, Flatness of the property (Near Flat/Level),property,boolean
+LotConfig_Corner, Lot configuration (Corner lot),property,boolean
+LotConfig_CulDSac, Lot configuration (Cul-de-sac),property,boolean
+LotConfig_FR2, Lot configuration (Frontage on 2 sides of property),property,boolean
+LotConfig_FR3, Lot configuration (Frontage on 3 sides of property),property,boolean
+LotConfig_Inside, Lot configuration (Inside lot),property,boolean
+Neighborhood_Blmngtn, Physical locations within Ames city limits (Bloomington Heights),location,boolean
+Neighborhood_Blueste, Physical locations within Ames city limits (Bluestem),location,boolean
+Neighborhood_BrDale, Physical locations within Ames city limits (Briardale),location,boolean
+Neighborhood_BrkSide, Physical locations within Ames city limits (Brookside),location,boolean
+Neighborhood_ClearCr, Physical locations within Ames city limits (Clear Creek),location,boolean
+Neighborhood_CollgCr, Physical locations within Ames city limits (College Creek),location,boolean
+Neighborhood_Crawfor, Physical locations within Ames city limits (Crawford),location,boolean
+Neighborhood_Edwards, Physical locations within Ames city limits (Edwards),location,boolean
+Neighborhood_Gilbert, Physical locations within Ames city limits (Gilbert),location,boolean
+Neighborhood_IDOTRR, Physical locations within Ames city limits (Iowa DOT and Rail Road),location,boolean
+Neighborhood_MeadowV, Physical locations within Ames city limits (Meadow Village),location,boolean
+Neighborhood_Mitchel, Physical locations within Ames city limits (Mitchell),location,boolean
+Neighborhood_NAmes, Physical locations within Ames city limits (North Ames),location,boolean
+Neighborhood_NPkVill, Physical locations within Ames city limits (Northpark Villa),location,boolean
+Neighborhood_NWAmes, Physical locations within Ames city limits (Northwest Ames),location,boolean
+Neighborhood_NoRidge, Physical locations within Ames city limits (Northridge),location,boolean
+Neighborhood_NridgHt, Physical locations within Ames city limits (Northridge Heights),location,boolean
+Neighborhood_OldTown, Physical locations within Ames city limits (Old Town),location,boolean
+Neighborhood_SWISU, Physical locations within Ames city limits (South & West of Iowa State University),location,boolean
+Neighborhood_Sawyer, Physical locations within Ames city limits (Sawyer),location,boolean
+Neighborhood_SawyerW, Physical locations within Ames city limits (Sawyer West),location,boolean
+Neighborhood_Somerst, Physical locations within Ames city limits (Somerset),location,boolean
+Neighborhood_StoneBr, Physical locations within Ames city limits (Stone Brook),location,boolean
+Neighborhood_Timber, Physical locations within Ames city limits (Timberland),location,boolean
+Neighborhood_Veenker, Physical locations within Ames city limits (Veenker),location,boolean
+Condition1_Artery, Proximity to various conditions (Adjacent to arterial street),location,boolean
+Condition1_Feedr, Proximity to various conditions (Adjacent to feeder street),location,boolean
+Condition1_Norm, Proximity to various conditions (Normal),location,boolean
+Condition1_PosA, Proximity to various conditions (Adjacent to postive off-site feature),location,boolean
+Condition1_PosN," Proximity to various conditions (Near positive off-site feature--park, greenbelt, etc.)",location,boolean
+Condition1_RRAe, Proximity to various conditions (Adjacent to East-West Railroad),location,boolean
+Condition1_RRAn, Proximity to various conditions (Adjacent to North-South Railroad),location,boolean
+Condition1_RRNe, Proximity to various conditions (Within 200' of East-West Railroad),location,boolean
+Condition1_RRNn, Proximity to various conditions (Within 200' of North-South Railroad),location,boolean
+Condition2_Artery, Proximity to various conditions (if more than one is present) (Adjacent to arterial street),location,boolean
+Condition2_Feedr, Proximity to various conditions (if more than one is present) (Adjacent to feeder street),location,boolean
+Condition2_Norm, Proximity to various conditions (if more than one is present) (Normal),location,boolean
+Condition2_PosA, Proximity to various conditions (if more than one is present) (Adjacent to postive off-site feature),location,boolean
+Condition2_PosN," Proximity to various conditions (if more than one is present) (Near positive off-site feature--park, greenbelt, etc.)",location,boolean
+Condition2_RRAe, Proximity to various conditions (if more than one is present) (Adjacent to East-West Railroad),location,boolean
+Condition2_RRAn, Proximity to various conditions (if more than one is present) (Adjacent to North-South Railroad),location,boolean
+Condition2_RRNn, Proximity to various conditions (if more than one is present) (Within 200' of North-South Railroad),location,boolean
+FinalBid,Final bid price placed on house before accepted sale,general,numeric
+BldgType_1Fam, Type of dwelling (Single-family Detached),general,boolean
+BldgType_2fmCon, Type of dwelling (2fmCon),general,boolean
+BldgType_Duplex, Type of dwelling (Duplex),general,boolean
+BldgType_Twnhs, Type of dwelling (Twnhs),general,boolean
+BldgType_TwnhsE, Type of dwelling (Townhouse End Unit),general,boolean
+HouseStyle_1.5Fin, Style of dwelling (One and one-half story: 2nd level finished),general,boolean
+HouseStyle_1.5Unf, Style of dwelling (One and one-half story: 2nd level unfinished),general,boolean
+HouseStyle_1Story, Style of dwelling (One story),general,boolean
+HouseStyle_2.5Fin, Style of dwelling (Two and one-half story: 2nd level finished),general,boolean
+HouseStyle_2.5Unf, Style of dwelling (Two and one-half story: 2nd level unfinished),general,boolean
+HouseStyle_2Story, Style of dwelling (Two story),general,boolean
+HouseStyle_SFoyer, Style of dwelling (Split Foyer),general,boolean
+HouseStyle_SLvl, Style of dwelling (Split Level),general,boolean
+RoofStyle_Flat, Type of roof (Flat),general,boolean
+RoofStyle_Gable, Type of roof (Gable),general,boolean
+RoofStyle_Gambrel, Type of roof (Gabrel (Barn)),general,boolean
+RoofStyle_Hip, Type of roof (Hip),general,boolean
+RoofStyle_Mansard, Type of roof (Mansard),general,boolean
+RoofStyle_Shed, Type of roof (Shed),general,boolean
+RoofMatl_CompShg, Roof material (Standard (Composite) Shingle),general,boolean
+RoofMatl_Membran, Roof material (Membrane),general,boolean
+RoofMatl_Metal, Roof material (Metal),general,boolean
+RoofMatl_Roll, Roof material (Roll),general,boolean
+RoofMatl_Tar&Grv, Roof material (Gravel & Tar),general,boolean
+RoofMatl_WdShake, Roof material (Wood Shakes),general,boolean
+RoofMatl_WdShngl, Roof material (Wood Shingles),general,boolean
+Exterior1st_AsbShng, Exterior covering on house (Asbestos Shingles),general,boolean
+Exterior1st_AsphShn, Exterior covering on house (Asphalt Shingles),general,boolean
+Exterior1st_BrkComm, Exterior covering on house (Brick Common),general,boolean
+Exterior1st_BrkFace, Exterior covering on house (Brick Face),general,boolean
+Exterior1st_CBlock, Exterior covering on house (Cinder Block),general,boolean
+Exterior1st_CemntBd, Exterior covering on house (Cement Board),general,boolean
+Exterior1st_HdBoard, Exterior covering on house (Hard Board),general,boolean
+Exterior1st_ImStucc, Exterior covering on house (Imitation Stucco),general,boolean
+Exterior1st_MetalSd, Exterior covering on house (Metal Siding),general,boolean
+Exterior1st_Plywood, Exterior covering on house (Plywood),general,boolean
+Exterior1st_Stone, Exterior covering on house (Stone),general,boolean
+Exterior1st_Stucco, Exterior covering on house (Stucco),general,boolean
+Exterior1st_VinylSd, Exterior covering on house (Vinyl Siding),general,boolean
+Exterior1st_Wd Sdng, Exterior covering on house (Wood Siding),general,boolean
+Exterior1st_WdShing, Exterior covering on house (Wood Shingles),general,boolean
+Exterior2nd_AsbShng, Exterior covering on house (if more than one material) (Asbestos Shingles),general,boolean
+Exterior2nd_AsphShn, Exterior covering on house (if more than one material) (Asphalt Shingles),general,boolean
+Exterior2nd_Brk Cmn, Exterior covering on house (if more than one material) (Brk Cmn),general,boolean
+Exterior2nd_BrkFace, Exterior covering on house (if more than one material) (Brick Face),general,boolean
+Exterior2nd_CBlock, Exterior covering on house (if more than one material) (Cinder Block),general,boolean
+Exterior2nd_CmentBd, Exterior covering on house (if more than one material) (CmentBd),general,boolean
+Exterior2nd_HdBoard, Exterior covering on house (if more than one material) (Hard Board),general,boolean
+Exterior2nd_ImStucc, Exterior covering on house (if more than one material) (Imitation Stucco),general,boolean
+Exterior2nd_MetalSd, Exterior covering on house (if more than one material) (Metal Siding),general,boolean
+Exterior2nd_Other, Exterior covering on house (if more than one material) (Other),general,boolean
+Exterior2nd_Plywood, Exterior covering on house (if more than one material) (Plywood),general,boolean
+Exterior2nd_Stone, Exterior covering on house (if more than one material) (Stone),general,boolean
+Exterior2nd_Stucco, Exterior covering on house (if more than one material) (Stucco),general,boolean
+Exterior2nd_VinylSd, Exterior covering on house (if more than one material) (Vinyl Siding),general,boolean
+Exterior2nd_Wd Sdng, Exterior covering on house (if more than one material) (Wood Siding),general,boolean
+Exterior2nd_Wd Shng, Exterior covering on house (if more than one material) (Wd Shng),general,boolean
+MasVnrType_BrkCmn, Masonry veneer type (Brick Common),general,boolean
+MasVnrType_BrkFace, Masonry veneer type (Brick Face),general,boolean
+MasVnrType_None, Masonry veneer type (None),general,boolean
+MasVnrType_Stone, Masonry veneer type (Stone),general,boolean
+Foundation_BrkTil, Type of foundation (Brick & Tile),general,boolean
+Foundation_CBlock, Type of foundation (Cinder Block),general,boolean
+Foundation_PConc, Type of foundation (Poured Contrete),general,boolean
+Foundation_Slab, Type of foundation (Slab),general,boolean
+Foundation_Stone, Type of foundation (Stone),general,boolean
+Foundation_Wood, Type of foundation (Wood),general,boolean
+BsmtCond_0, Evaluates the general condition of the basement (0),basement,boolean
+BsmtCond_1, Evaluates the general condition of the basement (1),basement,boolean
+BsmtCond_2, Evaluates the general condition of the basement (2),basement,boolean
+BsmtCond_3, Evaluates the general condition of the basement (3),basement,boolean
+BsmtCond_4, Evaluates the general condition of the basement (4),basement,boolean
+Heating_Floor, Type of heating (Floor Furnace),utilites,boolean
+Heating_GasA, Type of heating (Gas forced warm air furnace),utilites,boolean
+Heating_GasW, Type of heating (Gas hot water or steam heat),utilites,boolean
+Heating_Grav, Type of heating (Gravity furnace),utilites,boolean
+Heating_OthW, Type of heating (Hot water or steam heat other than gas),utilites,boolean
+Heating_Wall, Type of heating (Wall furnace),utilites,boolean
+CentralAir_N, Central air conditioning (No),utilites,boolean
+CentralAir_Y, Central air conditioning (Yes),utilites,boolean
+Electrical_FuseA, Electrical system (Fuse Box over 60 AMP and all Romex wiring (Average)),utilites,boolean
+Electrical_FuseF, Electrical system (60 AMP Fuse Box and mostly Romex wiring (Fair)),utilites,boolean
+Electrical_FuseP, Electrical system (60 AMP Fuse Box and mostly knob & tube wiring (poor)),utilites,boolean
+Electrical_Mix, Electrical system (Mixed),utilites,boolean
+Electrical_SBrkr, Electrical system (Standard Circuit Breakers & Romex),utilites,boolean
+GarageType_2Types, Garage location (More than one type of garage),garage,boolean
+GarageType_Attchd, Garage location (Attached to home),garage,boolean
+GarageType_Basment, Garage location (Basement Garage),garage,boolean
+GarageType_BuiltIn, Garage location (Built-In (Garage part of house - typically has room above garage)),garage,boolean
+GarageType_CarPort, Garage location (Car Port),garage,boolean
+GarageType_Detchd, Garage location (Detached from home),garage,boolean
+GarageType_No, Garage location (No),garage,boolean
+GarageFinish_Fin, Interior finish of the garage (Finished),garage,boolean
+GarageFinish_No, Interior finish of the garage (No),garage,boolean
+GarageFinish_RFn, Interior finish of the garage (Rough Finished),garage,boolean
+GarageFinish_Unf, Interior finish of the garage (Unfinished),garage,boolean
+Fence_GdPrv, Fence quality (Good Privacy),outdoor,boolean
+Fence_GdWo, Fence quality (Good Wood),outdoor,boolean
+Fence_MnPrv, Fence quality (Minimum Privacy),outdoor,boolean
+Fence_MnWw, Fence quality (Minimum Wood/Wire),outdoor,boolean
+Fence_No, Fence quality (No),outdoor,boolean
+MiscFeature_Gar2, Miscellaneous feature not covered in other categories (2nd Garage (if not described in garage section)),other,boolean
+MiscFeature_No, Miscellaneous feature not covered in other categories (No),other,boolean
+MiscFeature_Othr, Miscellaneous feature not covered in other categories (Other),other,boolean
+MiscFeature_Shed, Miscellaneous feature not covered in other categories (Shed (over 100 SF)),other,boolean
+MiscFeature_TenC, Miscellaneous feature not covered in other categories (Tennis Court),other,boolean
+MoSold_Apr, Month Sold (MM) (April),dates,boolean
+MoSold_Aug, Month Sold (MM) (August),dates,boolean
+MoSold_Dec, Month Sold (MM) (December),dates,boolean
+MoSold_Feb, Month Sold (MM) (February),dates,boolean
+MoSold_Jan, Month Sold (MM) (January),dates,boolean
+MoSold_Jul, Month Sold (MM) (July),dates,boolean
+MoSold_Jun, Month Sold (MM) (June),dates,boolean
+MoSold_Mar, Month Sold (MM) (March),dates,boolean
+MoSold_May, Month Sold (MM) (May),dates,boolean
+MoSold_Nov, Month Sold (MM) (November),dates,boolean
+MoSold_Oct, Month Sold (MM) (October),dates,boolean
+MoSold_Sep, Month Sold (MM) (September),dates,boolean
+SaleType_COD, Type of sale (Court Officer Deed/Estate),other,boolean
+SaleType_CWD, Type of sale (Warranty Deed - Cash),other,boolean
+SaleType_Con, Type of sale (Contract 15% Down payment regular terms),other,boolean
+SaleType_ConLD, Type of sale (Contract Low Down),other,boolean
+SaleType_ConLI, Type of sale (Contract Low Interest),other,boolean
+SaleType_ConLw, Type of sale (Contract Low Down payment and low interest),other,boolean
+SaleType_New, Type of sale (Home just constructed and sold),other,boolean
+SaleType_Oth, Type of sale (Other),other,boolean
+SaleType_WD, Type of sale (Warranty Deed - Conventional),other,boolean
+SaleCondition_Abnorml," Condition of sale (Abnormal Sale -  trade, foreclosure, short sale)",other,boolean
+SaleCondition_AdjLand, Condition of sale (Adjoining Land Purchase),other,boolean
+SaleCondition_Alloca," Condition of sale (Allocation - two linked properties with separate deeds, typically condo with a garage unit)",other,boolean
+SaleCondition_Family, Condition of sale (Sale between family members),other,boolean
+SaleCondition_Normal, Condition of sale (Normal Sale),other,boolean
+SaleCondition_Partial, Condition of sale (Home was not completed when last assessed (associated with New Homes)),other,boolean
