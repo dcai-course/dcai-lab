@@ -6,6 +6,9 @@ Data-Centric AI](https://dcai.csail.mit.edu/) class.
 Contributions are most welcome! If you have ideas for improving the labs,
 please open an issue or submit a pull request.
 
+For more hands-on experience with techniques taught in this class, participate in the 
+[Data-centric AI Competition 2023](https://machinehack.com/tournaments/data_centric_ai_competition_2023).
+
 ## License
 
 Copyright (c) 2023 by the instructors of Introduction to Data-Centric AI (dcai.csail.mit.edu).
