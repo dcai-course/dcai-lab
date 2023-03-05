@@ -93,7 +93,7 @@ can look up other membership inference attack algorithms.
 
 ## License
 
-Copyright (c) 2023 by the instructors of Introduction to Data-Centric AI (dcai.csail.mit.edu).
+Copyright (c) by the instructors of Introduction to Data-Centric AI (dcai.csail.mit.edu).
 
 dcai-lab is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
