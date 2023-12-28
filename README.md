@@ -6,8 +6,8 @@ Data-Centric AI](https://dcai.csail.mit.edu/) class.
 Contributions are most welcome! If you have ideas for improving the labs,
 please open an issue or submit a pull request.
 
-For more hands-on experience with techniques taught in this class, participate in the
-[Data-centric AI Competition 2023](https://machinehack.com/tournaments/data_centric_ai_competition_2023).
+If you're looking for the 2023 version of the labs, check out the [2023
+branch](https://github.com/dcai-course/dcai-lab/tree/2023).
 
 ## [Lab 1: Data-Centric AI vs. Model-Centric AI][lab-1]
 
